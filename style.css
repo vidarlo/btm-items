@@ -157,3 +157,11 @@ p {
         font-size: 2.5rem;
     }
 }
+
+th {
+    text-align: left;
+    color: var(--accent-red);
+}
+td {
+    padding-right: 2em;
+}
